@@ -182,7 +182,7 @@ pluto-player：不开源 A佬。魔改，改动大，功能多，能在线升级
 
 https://github.com/pluto-player/updates
 
-takagen99：解除**屏蔽
+takagen99：
 
 https://github.com/takagen99/TVBoxOSC
 
@@ -190,15 +190,21 @@ o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
+https://github.com/dlgt7/TVBoxOSC-o0HalfLife0o   上传作者分享的开源代码，有需要的自己fork回去修改。（2022-8-11）
+
 https://github.com/o0HalfLife0o/AlphaTV
 
 clanTV：
 
 https://github.com/clanTV/clanTV
 
-FongMi-TV
+FongMi-TV:
 
 https://github.com/FongMi/TV
+
+BearTV:
+
+https://github.com/haha459862/BearTV
 
 官仓：终结于2022年7月18日。封仓。
 
@@ -306,6 +312,13 @@ https://down.52pojie.cn/Tools/
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
 
 试试吧，不一定对。
+
+## 今天看到一个新的教程：
+【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画 
+
+8款网盘可同时挂载到Kodi播放器，支持Mac和Windows平台
+
+教程在仓库里：https://github.com/dlgt7/TVbox-interface  PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
 
 ### Stargazers over time
 
