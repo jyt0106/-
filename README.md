@@ -59,7 +59,6 @@
 
 26、诺灸：https://www.cloudewl.cn
 
-27、代码托管：https://agit.ai
 
 ## 短链接制作网址：哪个稳定自己测试。
 
@@ -127,20 +126,9 @@ http://www.36nu.com/apiTest
 {"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
 
+## 牛人制作网站：版本收集、接口收集、TG群收集，小白有这个网站能躺平了！
 
-### 天天维护的接口，慢慢收集
-
-接口1:http://刚刚.live/猫
-
-接口2:http://maoyingshi.cc/tvbox/云星日记/1.m3u8
-
-接口3:https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
-
-接口4:http://xiaoz123.ysepan.com/
-
-接口5：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
-
-接口6：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
+https://maoyingshi.cc/
 
 
 ## TVBox配置编辑器：
@@ -174,7 +162,7 @@ https://github.com/cloudreve/Cloudreve
 
 巧技大佬仓库地址：https://gitea.com/qiaoji
 
-俊于大佬+唐三大佬+影魔大佬=官仓延续：
+于俊大佬+唐三大佬+影魔大佬=官仓延续：
 
 https://github.com/q215613905/TVBoxOS
 
@@ -189,8 +177,6 @@ https://github.com/takagen99/TVBoxOSC
 o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
-
-https://github.com/dlgt7/TVBoxOSC-o0HalfLife0o   上传作者分享的开源代码，有需要的自己fork回去修改。（2022-8-11）
 
 https://github.com/o0HalfLife0o/AlphaTV
 
@@ -209,6 +195,10 @@ https://github.com/haha459862/BearTV
 官仓：终结于2022年7月18日。封仓。
 
 https://github.com/CatVodTVOfficial/TVBoxOSC
+
+多线路TV版本仓库：
+
+https://github.com/tv-player
 
 ## 常用工具：
 
@@ -263,6 +253,10 @@ https://github.com/Kimlee-cmd/TvJar
 https://github.com/Kvymin/CatVodTVSpider
 
 https://github.com/Kvymin/CatVod  
+
+传说中的T4类型，仓库地址如下，自己研究。
+
+https://github.com/sec-an/TV_Spider
 
 ## 电脑修改 apk 所需软件 
 
